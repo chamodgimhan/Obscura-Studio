@@ -1,0 +1,34 @@
+OBSCURA STUDIO — WHAT'S INSIDE AND WHO OWNS IT
+
+The app
+-------
+Obscura Studio 1.0
+Copyright (c) 2026 Chamod Gimhan. All rights reserved.
+
+The editor was written for you and contains no third-party code.
+You own it: use it, change it, give it away or sell it as you see fit.
+
+Fonts built into the app
+------------------------
+Three typefaces are embedded so the app works with no internet. All three are
+free for any use, including commercial, under the SIL Open Font License 1.1:
+
+  Inter    Copyright (c) 2016 The Inter Project Authors
+  Lora     Copyright (c) 2011 The Lora Project Authors
+  Poppins  Copyright (c) 2014 Indian Type Foundry
+
+The licence lets you embed and redistribute these fonts freely. It does not
+allow selling the font files on their own, and a modified font may not keep the
+original name. If you give the app to other people, include this notice; if you
+distribute it widely or commercially, also drop a copy of the licence text in
+beside this file. Get it from https://openfontlicense.org
+
+If you build the Windows program
+--------------------------------
+That build wraps the app in Electron (Chromium + Node.js), which is free to
+redistribute. The build puts its own LICENSE and LICENSES.chromium.html files
+next to the .exe — leave them there if you pass the program on.
+
+Images you make
+---------------
+Yours. Nothing here claims any rights over what you draw or edit.
